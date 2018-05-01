@@ -1,0 +1,4 @@
+#Install all of our production dependencies only.
+#-r requirements/prod.txt
+#Usage : pip install -r requirements.txt
+-r requirements/dev.txt
